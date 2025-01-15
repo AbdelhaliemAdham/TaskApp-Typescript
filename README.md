@@ -42,6 +42,6 @@ Follow these steps to set up the project locally:
 
 ## Developer Info
 
--**Gmail**:abdelhaliemadham@gmail.com || abdo09adham@gmail.com
--**phone**:01008782736
--**LinkedIn**:https://www.linkedin.com/in/abdelhaliem-adham-4485ab20b/
+- **Gmail** : abdelhaliemadham@gmail.com || abdo09adham@gmail.com.
+- **phone** : 01008782736 || 01142828110.
+- **LinkedIn** : https://www.linkedin.com/in/abdelhaliem-adham-4485ab20b/.
